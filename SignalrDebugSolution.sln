@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR", "SignalR\SignalR.csproj", "{F400DA3F-604D-4136-A49C-46D8BE67C7D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "TestApp\TestApp.csproj", "{3856A400-49EC-4788-BAE3-A2D8A20950E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F400DA3F-604D-4136-A49C-46D8BE67C7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F400DA3F-604D-4136-A49C-46D8BE67C7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F400DA3F-604D-4136-A49C-46D8BE67C7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F400DA3F-604D-4136-A49C-46D8BE67C7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3856A400-49EC-4788-BAE3-A2D8A20950E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3856A400-49EC-4788-BAE3-A2D8A20950E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3856A400-49EC-4788-BAE3-A2D8A20950E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3856A400-49EC-4788-BAE3-A2D8A20950E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F3CFFF-57AC-47CC-9824-2E02797C0E06}
+	EndGlobalSection
+EndGlobal
